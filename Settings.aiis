@@ -179,9 +179,21 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "9b417213-429d-451f-b87c-f8b176a421d4",
-    "SourceControlRepository": null,
-    "IsOnline": false,
-    "ProjectLanguage": 2,
+    "SourceControlRepository": {
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
+      "__value": {
+        "RemotePath": "https://github.com/kalchev/glowing-goggles.git",
+        "ServerInfo": {
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
+          "__value": {
+            "ServerName": "https://github.com/kalchev/glowing-goggles.git"
+          }
+        },
+        "ServerType": 2
+      }
+    },
+    "IsOnline": true,
+    "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
       "System.Core",
