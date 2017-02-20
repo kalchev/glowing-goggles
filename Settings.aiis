@@ -192,8 +192,8 @@
       "Telerik.WebAii.Controls.Xaml.Wpf, Version=2012.1.719.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
       "Telerik.TestingFramework.Controls.KendoUI, Version=2012.1.322.0, Culture=neutral, PublicKeyToken=528163f3e645de45"
     ],
-    "ScheduleServerUrl": "http://localhost:8009",
-    "IsScheduleServerRemote": false,
+    "ScheduleServerUrl": "http://localhost:8009/",
+    "IsScheduleServerRemote": true,
     "ProjectVersion": "2017.1.116.0",
     "Namespace": "TestProject125",
     "AssemblyName": "TestProject125",
