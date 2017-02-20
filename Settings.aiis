@@ -178,29 +178,10 @@
     "PromptNameOnAddElement": true,
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
-<<<<<<< HEAD
     "ProjectGuid": "1942bc65-da9b-4bc2-8fa4-d1c76a73d1fd",
     "SourceControlRepository": null,
     "IsOnline": false,
     "ProjectLanguage": 2,
-=======
-    "ProjectGuid": "9b417213-429d-451f-b87c-f8b176a421d4",
-    "SourceControlRepository": {
-      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
-      "__value": {
-        "RemotePath": "https://github.com/kalchev/glowing-goggles.git",
-        "ServerInfo": {
-          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
-          "__value": {
-            "ServerName": "https://github.com/kalchev/glowing-goggles.git"
-          }
-        },
-        "ServerType": 2
-      }
-    },
-    "IsOnline": true,
-    "ProjectLanguage": 1,
->>>>>>> master
     "ProjectReferences": [
       "System",
       "System.Core",
@@ -214,13 +195,8 @@
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
     "ProjectVersion": "2017.1.116.0",
-<<<<<<< HEAD
     "Namespace": "TestProject125",
     "AssemblyName": "TestProject125",
-=======
-    "Namespace": "glowing_goggles",
-    "AssemblyName": "glowing-goggles",
->>>>>>> master
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "DisabledTranslators": [],
